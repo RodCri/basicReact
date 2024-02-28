@@ -1,0 +1,12 @@
+.state {
+  color: aliceblue;
+  font-size: 1rem;
+  padding: 0.3rem 1rem;
+  border-radius: 1rem;
+}
+.completed {
+  background-color: rgb(2, 95, 2);
+}
+.pending {
+  background-color: rgb(167, 6, 6);
+}
